@@ -1,2 +1,2 @@
 # Dental-clinic-Chatbot-
-An AI chatbot for dental clinics that helps patients book appointments, get service info, and answer common dental care questions quickly.
+This project is an AI-powered chatbot designed to assist patients of a dental clinic. It can handle appointment booking, provide information about treatments and services, answer common dental care questions, and guide patients with clinic timings and contact details. The chatbot is built to improve patient experience by offering instant responses and reducing manual workload for clinic staff.

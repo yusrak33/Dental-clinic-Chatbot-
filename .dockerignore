@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Git
+.git/
+.gitignore
+
+# Editor/IDE
+*.swp
+*.swo
+*.bak
+*.tmp
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite DB (optional - comment this if you want to keep chatbot.db inside container)
+# chatbot.db

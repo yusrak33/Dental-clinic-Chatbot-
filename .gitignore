@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+*.key
+
+# SQLite database (optional - comment if you want to track it)
+chatbot.db
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python egg
+*.egg-info/
+
+# Docker stuff (optional)
+docker-compose.override.yml

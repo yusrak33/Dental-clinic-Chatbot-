@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: flask-chatbot
+    env: docker
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    envVars:
+      - key: GEMINI_API_KEY
+        value: AIzaSyC0gdJDMyBRYTTvY5Kxp8FT4KUSqThMLk0
